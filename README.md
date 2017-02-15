@@ -21,11 +21,11 @@
 
 ### 一些好的参考
 
-[[杭州] 阿里巴巴 Ruby 工程师 3 名](https://ruby-china.org/topics/21144)
-[[广州] Shopper+ 招聘 Ruby 工程师 5-8 人](https://ruby-china.org/topics/25562)
-[[深圳] DJI 大疆创新公司招聘 Ruby on Rails 工程师 3 名（内推 15-30k）](https://ruby-china.org/topics/24538)
-[[北京] 36Kr 招聘高级 Rails 研发工程师 3 名，15K 起](https://ruby-china.org/topics/23035)
-[[上海] Strikingly 团队诚聘前端工程师](https://ruby-china.org/topics/16965)
+- [[杭州] 阿里巴巴 Ruby 工程师 3 名](https://ruby-china.org/topics/21144)
+- [[广州] Shopper+ 招聘 Ruby 工程师 5-8 人](https://ruby-china.org/topics/25562)
+- [[深圳] DJI 大疆创新公司招聘 Ruby on Rails 工程师 3 名（内推 15-30k）](https://ruby-china.org/topics/24538)
+- [[北京] 36Kr 招聘高级 Rails 研发工程师 3 名，15K 起](https://ruby-china.org/topics/23035)
+- [[上海] Strikingly 团队诚聘前端工程师](https://ruby-china.org/topics/16965)
 
 ### 不好的例子
 

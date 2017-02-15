@@ -32,3 +32,6 @@
 - [https://ruby-china.org/topics/25570](https://ruby-china.org/topics/25549)
 - [https://ruby-china.org/topics/25487](https://ruby-china.org/topics/25487)
 - [https://ruby-china.org/topics/25616](https://ruby-china.org/topics/25616)
+
+
+参考来自： [https://ruby-china.org/topics/25579](https://ruby-china.org/topics/25579)
